@@ -13,3 +13,7 @@ All our experiments were carried out on Google Colab using the following noteboo
 - notebooks/personal_contribution_iid.ipynb: notebook for training and evaluating the Federated Averaged model under IID setting, when sparse finetuning is applied considering different mask calibration strategies 
 
 - notebooks/personal_contribution_non_iid.ipynb: notebook for training and evaluating the Federated Averaged model under NON-IID setting, when sparse finetuning is applied considering different mask calibration strategies 
+
+# Report
+
+The scientific report of this project is available [here](report/Federated_Learning_Report.pdf).
